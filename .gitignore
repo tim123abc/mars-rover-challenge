@@ -1,0 +1,3 @@
+# IDE and plugin related
+.idea/*
+node_modules

@@ -1,0 +1,22 @@
+{
+  "name": "mars-rover-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/Main.js"
+  },
+  "type": "module",
+  "author": "Tim White",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "babel-jest": "^27.3.1",
+    "expect": "^27.3.1"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
